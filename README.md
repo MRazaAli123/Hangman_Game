@@ -7,13 +7,13 @@ This Hangman game randomly selects a hidden word from a predefined list. Players
 
 * Features
 
-    1) Random word selection
-    2) Input validation (letters only, one character at a time)
-    3) racks guessed letters
-    4) mited number of wrong attempts (6 lives)
-    5) Real-time feedback after each guess
-    6) Clear win/lose end messages
-    7) Beginner-friendly, clean, and readable Python code
+    * Random word selection
+    * Input validation (letters only, one character at a time)
+    * Tracks guessed letters
+    * Limited number of wrong attempts (6 lives)
+    * Real-time feedback after each guess
+    * Clear win/lose end messages
+    * Beginner-friendly, clean, and readable Python code
 
 * How It Works
 
