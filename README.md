@@ -7,36 +7,27 @@ This Hangman game randomly selects a hidden word from a predefined list. Players
 
 * Features
 
-✔️ Random word selection
-✔️ Input validation (letters only, one character at a time)
-✔️ Tracks guessed letters
-✔️ Limited number of wrong attempts (6 lives)
-✔️ Real-time feedback after each guess
-✔️ Clear win/lose end messages
-✔️ Beginner-friendly, clean, and readable Python code
+    1) Random word selection
+    2) Input validation (letters only, one character at a time)
+    3) racks guessed letters
+    4) mited number of wrong attempts (6 lives)
+    5) Real-time feedback after each guess
+    6) Clear win/lose end messages
+    7) Beginner-friendly, clean, and readable Python code
 
 * How It Works
 
-The program randomly chooses a word from a list.
-
-The player guesses letters to reveal the word.
-
-If the guessed letter is correct, it appears in its position(s).
-
-Wrong guesses decrease the player's remaining attempts.
-
-The game ends when the player wins (guesses all letters) or loses (runs out of attempts).
+    i. The program randomly chooses a word from a list.
+    ii. The player guesses letters to reveal the word.
+    iii. If the guessed letter is correct, it appears in its position(s).
+    iv. Wrong guesses decrease the player's remaining attempts.
+    v. The game ends when the player wins (guesses all letters) or loses (runs out of attempts).
 
 * Concepts Used
 
-random.choice() for picking words
-
-Lists & string manipulation
-
-Loops (while)
-
-Conditional logic (if-elif-else)
-
-Guard clauses for input validation
-
-User interaction through CLI
+    * random.choice() for picking words
+    * Lists & string manipulation
+    * Loops (while)
+    * Conditional logic (if-elif-else)
+    * Guard clauses for input validation
+    * User interaction through CLI
