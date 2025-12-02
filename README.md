@@ -17,11 +17,11 @@ This Hangman game randomly selects a hidden word from a predefined list. Players
 
 * How It Works
 
-    i. The program randomly chooses a word from a list.
-    ii. The player guesses letters to reveal the word.
-    iii. If the guessed letter is correct, it appears in its position(s).
-    iv. Wrong guesses decrease the player's remaining attempts.
-    v. The game ends when the player wins (guesses all letters) or loses (runs out of attempts).
+    * The program randomly chooses a word from a list.
+    * The player guesses letters to reveal the word.
+    * If the guessed letter is correct, it appears in its position(s).
+    * Wrong guesses decrease the player's remaining attempts.
+    * The game ends when the player wins (guesses all letters) or loses (runs out of attempts).
 
 * Concepts Used
 
